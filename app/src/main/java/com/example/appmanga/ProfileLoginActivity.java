@@ -1,3 +1,5 @@
+package com.example.appmanga;
+
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
